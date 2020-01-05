@@ -2,6 +2,3 @@ version: 0.2
 proxy:
   upload-artifacts: yes
   logs: yes
-#phases:
-#  build:
-#    commands:
